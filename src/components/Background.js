@@ -1,7 +1,7 @@
 import React, {useEffect} from 'react';
 
 function Background(){
-    const canvas = React.useRef(null);
+    /*const canvas = React.useRef(null);
     const [scale, setScale] = React.useState({ x: 1, y: 1 });
     const scaleWidth = 500;
     const scaleHeight = 500;
@@ -31,6 +31,18 @@ function draw(canvas, scaleX, scaleY) {
     const context = canvas.getContext("2d");
     context.scale(scaleX, scaleY);
     context.clearRect(0, 0, canvas.clientWidth, canvas.clientHeight);  
+
+    context.strokeStyle = "red";
+    context.beginPath();
+    context.moveTo(100,100);
+    context.bezierCurveTo(200,100,200,100,200,20);
+    context.stroke();
+
+    // context.fillStyle = "red";
+    // context.fillRect(50, 50, 100, 100)
+    //draw content below
+    
+*/
 }
 
 export default Background;

@@ -5,6 +5,7 @@ import Pricing from "./pages/Pricing";
 import Contact from "./pages/Contact";
 import Docs from "./pages/Docs";
 import NavBar from "./components/NavBar";
+import Footer from "./components/Footer";
 
 import { Route, Routes } from 'react-router-dom';
 import Background from "./components/Background";
@@ -24,6 +25,7 @@ function App() {
           <Route path="/docs" element={<Docs/>}/>
         </Routes>
       </div>
+      <Footer/>
     </div>
   );
 }
