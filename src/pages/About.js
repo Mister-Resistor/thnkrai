@@ -11,7 +11,7 @@ function About(){
             <div className='grid lg:grid-cols-4 md:grid-cols-2 gap-4 font-sans text-center m-4 mx-20'>
                 <div className='bg-white p-4 rounded-lg shadow-xl'>
                     <div class="flex justify-center">
-                        <img src="Andrew_Headshot.png" className=' rounded-full border-2 border-orange-500 my-2 w-2/3'/>
+                        <img src="thnkrai/Andrew_Headshot.png" className=' rounded-full border-2 border-orange-500 my-2 w-2/3'/>
                     </div>
                     <h1 className='font-bold text-2xl'>
                         Andrew Sommers
@@ -24,13 +24,13 @@ function About(){
                     </h1>
                     <div class="flex justify-center">
                         <a href="https://www.linkedin.com/in/andrew-somersprofile/">
-                            <img className=" items-center" src="linkedin.svg" width="20"/>
+                            <img className=" items-center" src="thnkrai/linkedin.svg" width="20"/>
                         </a>
                     </div>
                 </div>
                 <div className='bg-white p-4 rounded-lg shadow-xl'>
                     <div class="flex justify-center">
-                        <img src="Aditya_headshot.jpeg" className=' rounded-full border-2 border-orange-500 my-2 w-2/3'/>
+                        <img src="thnkrai/Aditya_headshot.jpeg" className=' rounded-full border-2 border-orange-500 my-2 w-2/3'/>
                     </div>
                     <h1 className='font-bold text-2xl'>
                         Aditya Behera
@@ -43,13 +43,13 @@ function About(){
                     </h1>
                     <div class="flex justify-center">
                         <a href="https://www.linkedin.com/in/aditya-behera-link/">
-                            <img className=" items-center" src="linkedin.svg" width="20"/>
+                            <img className=" items-center" src="thnkrai/linkedin.svg" width="20"/>
                         </a>
                     </div>
                 </div>
                 <div className='bg-white p-4 rounded-lg shadow-xl'>
                     <div class="flex justify-center">
-                        <img src="Ben_headshot.png" className=' rounded-full border-2 border-orange-500 my-2 w-2/3'/>
+                        <img src="thnkrai/Ben_headshot.png" className=' rounded-full border-2 border-orange-500 my-2 w-2/3'/>
                     </div>
                     <h1 className='font-bold text-2xl'>
                         Ben Jen
@@ -62,14 +62,14 @@ function About(){
                     </h1>
                     <div class="flex justify-center">
                         <a href="https://www.linkedin.com/in/benjenonline/">
-                            <img className=" items-center" src="linkedin.svg" width="20"/>
+                            <img className=" items-center" src="thnkrai/linkedin.svg" width="20"/>
                         </a>
                     </div>
                 </div>
 
                 <div className='bg-white p-4 rounded-lg shadow-xl'>
                     <div class="flex justify-center">
-                        <img src="Wesley_Headshot.jpg" className=' rounded-full border-2 border-orange-500 my-2 w-2/3'/>
+                        <img src="thnkrai/Wesley_Headshot.jpg" className=' rounded-full border-2 border-orange-500 my-2 w-2/3'/>
                     </div>
                     <h1 className='font-bold text-2xl'>
                         Wesley Hu
@@ -82,7 +82,7 @@ function About(){
                     </h1>
                     <div class="flex justify-center">
                         <a href="https://www.linkedin.com/in/wesley-hu-01a094266/">
-                            <img className=" items-center" src="linkedin.svg" width="20"/>
+                            <img className=" items-center" src="thnkrai/linkedin.svg" width="20"/>
                         </a>
                     </div>
                 </div>

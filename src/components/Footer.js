@@ -5,7 +5,7 @@ function Footer()
     return (
         <div className='bg-orange-100 flex justify-between p-10'>
             <div className='flex-col align-middle'>
-                <img className='w-20' src="logo-transparent-png.png"/>
+                <img className='w-20' src="thnkrai/logo-transparent-png.png"/>
                 <p>
                 By © thnkrAI Inc. 
                 </p>
@@ -23,13 +23,13 @@ function Footer()
                 </p>
                 <div className="flex justify-center items-center gap-2">
                     <a href="https://twitter.com/thnkrAI">
-                        <img className="" src="twitter.svg" width="20"/>
+                        <img className="" src="thnkrai/twitter.svg" width="20"/>
                     </a>
                     <a href="https://www.instagram.com/thnkrai.inc/">
-                        <img className="" src="instagram.svg" width="20"/>
+                        <img className="" src="thnkrai/instagram.svg" width="20"/>
                     </a>
                     <a href="https://www.linkedin.com/company/thnkrai/">
-                        <img className="" src="linkedin.svg" width="20"/>
+                        <img className="" src="thnkrai/linkedin.svg" width="20"/>
                     </a>
                 </div>
             </div>

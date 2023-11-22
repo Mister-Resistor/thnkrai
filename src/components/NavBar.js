@@ -7,7 +7,7 @@ function NavBar(props){
     return(
         <div className="flex justify-around bg-gray-200 content-center align-middle">
             <Link to="/">
-                <img src="logo-transparent-png.png" className="w-16"/>
+                <img src="thnkrai/logo-transparent-png.png" className="w-16"/>
             </Link>
 
             <div className="flex">
