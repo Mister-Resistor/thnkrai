@@ -43,6 +43,10 @@ function draw(canvas, scaleX, scaleY) {
     //draw content below
     
 */
+
+return(
+    <img src="thnkrai/6-removebg-preview.png"className="w-full -z-10 absolute"/>
+);
 }
 
 export default Background;
