@@ -19,7 +19,7 @@ function Pricing(){
                         <li>✔ That</li>
                         <li>✔ The other thing</li>
                     </ul>
-                    <h1 className='font-bold text-2xl bottom-0'>
+                    <h1 className='font-bold text-2xl '>
                         $5/mo
                     </h1>
                 </div>
@@ -66,6 +66,9 @@ function Pricing(){
                         $100/mo
                     </h1>
                 </div>
+            </div>
+            <div className='h-10'>
+
             </div>
         </div>
     );

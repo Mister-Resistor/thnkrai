@@ -45,7 +45,19 @@ function draw(canvas, scaleX, scaleY) {
 */
 
 return(
-    <img src="thnkrai/6-removebg-preview.png"className="w-full -z-10 absolute"/>
+    <div>
+        <img src="thnkrai/6-removebg-preview.png"className="-top-10 -z-10 absolute"/>
+        
+        
+        {/* <img src="thnkrai/6-removebg-preview.png"className=" -top-100 -z-10 absolute"/>
+        <img src="thnkrai/6-removebg-preview.png"className=" top-200 -z-10 absolute"/>
+        <img src="thnkrai/6-removebg-preview.png"className=" top-300 -z-10 absolute"/>
+        <img src="thnkrai/6-removebg-preview.png"className=" top-400 -z-10 absolute"/> */}
+        
+        <img src="thnkrai/5-removebg-preview.png"className="  -bottom-20 -z-10 absolute"/>
+        <img src="thnkrai/7-removebg-preview.png"className=" -right-80 bottom-20 -z-10 absolute"/>
+        
+    </div>
 );
 }
 
