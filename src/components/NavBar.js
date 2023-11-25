@@ -16,7 +16,7 @@ function NavBar(props) {
             <div className="flex justify-around bg-gray-200 content-center align-middle">
                 <Link to="/thnkrai">
                     <div className=' w-16'>
-                        <img src="thnkrai/logo-transparent-png.png" className="w-16"/>
+                        <img src="logo-transparent-png.png" className="w-16"/>
                     </div>
                 </Link>
 
@@ -54,7 +54,7 @@ function NavBar(props) {
                 </div>
 
                 <div onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave} className='w-16 pt-2 md:invisible visibl'>
-                    <img src="thnkrai/menu_icon.png" className='align-self-center p-2'/>
+                    <img src="menu_icon.png" className='align-self-center p-2'/>
                 </div>
                 
             </div>
