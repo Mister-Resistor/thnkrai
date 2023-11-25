@@ -19,7 +19,7 @@ function Home(){
                 </div>
 
                 <div className='bg-white rounded-lg shadow-xl lg:col-span-2 col-span-4'>
-                    <img className='h-full w-auto rounded-lg' src=" thnkrai/office.avif"/> 
+                    <img className='h-full w-auto rounded-lg' src="office.avif"/> 
                 </div>
             </div>
         </div>
