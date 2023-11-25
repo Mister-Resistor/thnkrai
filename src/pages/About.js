@@ -69,7 +69,7 @@ function About(){
 
                 <div className='bg-white p-4 rounded-lg shadow-xl'>
                     <div className="flex justify-center">
-                        <img src="thnkrai/Wesley_Headshot.jpg" className=' rounded-full border-2 border-orange-500 my-2 w-2/3'/>
+                        <img src="Wesley_Headshot.jpg" className=' rounded-full border-2 border-orange-500 my-2 w-2/3'/>
                     </div>
                     <h1 className='font-bold text-2xl'>
                         Wesley Hu

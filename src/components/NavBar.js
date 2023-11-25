@@ -14,39 +14,39 @@ function NavBar(props) {
     return(
         <div>
             <div className="flex justify-around bg-gray-200 content-center align-middle">
-                <Link to="/">
+                <Link to="/thnkrai">
                     <div className=' w-16'>
                         <img src="thnkrai/logo-transparent-png.png" className="w-16"/>
                     </div>
                 </Link>
 
                 <div className="flex md:visible md:z-0 md:relative absolute -z-10 invisible">
-                <Link to="/">
+                <Link to="/thnkrai">
                     <div className="py-5 px-8 m-2 font-bold bg-white rounded-lg hover:bg-orange-500 hover:text-white">
                         <h1>Home</h1>
                     </div>
                 </Link>
-                <Link to="/about">
+                <Link to="/thnkrai/about">
                     <div className="py-5 px-8 m-2 font-bold bg-white rounded-lg hover:bg-orange-500 hover:text-white">
                         <h1>About</h1>
                     </div>
                 </Link>
-                <Link to="/product">
+                <Link to="/thnkrai/product">
                     <div className="py-5 px-8 m-2 font-bold bg-white rounded-lg hover:bg-orange-500 hover:text-white">
                         <h1>Product</h1>
                     </div>
                 </Link>
-                <Link to="/pricing">
+                <Link to="/thnkrai/pricing">
                     <div className="py-5 px-8 m-2 font-bold bg-white rounded-lg hover:bg-orange-500 hover:text-white">
                         <h1>Pricing</h1>
                     </div>
                 </Link>
-                <Link to="/contact">
+                <Link to="/thnkrai/contact">
                     <div className="py-5 px-8 m-2 font-bold bg-white rounded-lg hover:bg-orange-500 hover:text-white">
                         <h1>Contact</h1>
                     </div>
                 </Link>
-                <Link to="/docs">
+                <Link to="/thnkrai/docs">
                     <div className="py-5 px-8 m-2 font-bold bg-white rounded-lg hover:bg-orange-500 hover:text-white">
                         <h1>Docs</h1>
                     </div>

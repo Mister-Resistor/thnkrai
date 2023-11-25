@@ -17,12 +17,12 @@ function App() {
       <Background/>
       <div>
         <Routes>
-          <Route path="/" element={<Home/>}/>
-          <Route path="/about" element={<About/>}/>
-          <Route path="/product" element={<Product/>}/>
-          <Route path="/pricing" element={<Pricing/>}/>
-          <Route path="/contact" element={<Contact/>}/>
-          <Route path="/docs" element={<Docs/>}/>
+          <Route path="/thnkrai" element={<Home/>}/>
+          <Route path="/thnkrai/about" element={<About/>}/>
+          <Route path="/thnkrai/product" element={<Product/>}/>
+          <Route path="/thnkrai/pricing" element={<Pricing/>}/>
+          <Route path="/thnkrai/contact" element={<Contact/>}/>
+          <Route path="/thnkrai/docs" element={<Docs/>}/>
         </Routes>
       </div>
       <Footer/>
